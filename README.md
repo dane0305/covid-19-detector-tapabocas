@@ -38,3 +38,5 @@ python detect_mask_image.py --image examples/example_01.png
 cd /path_al_repo/
 python detect_mask_video.py
 ```
+
+Basado en el trabajo de [Prajna Bhandary’s](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655711815361761280/)
