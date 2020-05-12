@@ -1,0 +1,8 @@
+numpy
+tensorflow
+argparse
+os
+imutils
+time
+matplotlib
+opencv-contrib-python
