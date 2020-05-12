@@ -1,7 +1,7 @@
 # Detector de tapabocas con OpenCV y Keras/Tensorflow
 ![](demo.gif)
 
-Puedes ver toda la explicación del código en mi blog: [RaspiBlog](http://blog.jose.co)
+Puedes ver toda la explicación del código en mi blog: [RaspiBlog](http://blog.joseb.co)
 
 ## Modo de uso:
 
